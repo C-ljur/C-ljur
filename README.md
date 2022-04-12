@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you have anything, plz say it up, DIRECTLY. (where I can notice, I mean) 
+If you have anything, plz say it up, DIRECTLY. (where I can notice, I mean)  
 Wanna kill me by putting me down in public before I know? 
 Perfect way.  
 My decade has died in shame. What a pity. 
