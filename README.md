@@ -3,7 +3,7 @@
 If you have anything, plz say it up, DIRECTLY. (where I will notice, I mean)  
 Wanna kill me by putting me down in public before I know? 
 Perfect way.  
-My decade has died in shame. What a pity. 
+My decade has already died in shame. What a pity. 
 <!--
 **Djur13/Djur13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
