@@ -1,21 +1,15 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋  </h2>
+<p align="center">
+<p align="center">If you have anything, plz say it up, DIRECTLY. (where I will notice, I mean)  </p>
+<p align="center">Wanna kill me by putting me down in public before I know? Perfect.</p>
+<p align="center">But far more better way is to ask a question and/or offer a suggestion.  </p>
+<p align="center">My decade has already died in shame that way. What a pity. </p>
+</p>
 
-If you have anything, plz say it up, DIRECTLY. (where I will notice, I mean)  
-Wanna kill me by putting me down in public before I know? 
-Perfect way.  
-But far more better way is to ask a question and/or offer a suggestion.  
-My decade has already died in shame. What a pity. 
 <!--
-**Djur13/Djur13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djur13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Djur13&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Djur13&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
