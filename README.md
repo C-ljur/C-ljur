@@ -3,7 +3,7 @@
 <p align="center">If you have anything, plz say it up, DIRECTLY. (where I will notice, I mean)  </p>
 <p align="center">Wanna kill me by putting me down in public before I know? Perfect.</p>
 <p align="center">But far more better way is to ask a question and/or offer a suggestion.  </p>
-<p align="center">My decade has already died in shame that way. What a pity. </p>
+<p align="center">Quite a few years of mine have already died in shame that way. What a pity. </p>
 </p>
 <br>
 <h1 align="center">Stats</h1>
