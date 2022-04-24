@@ -1,8 +1,9 @@
 <h2 align="center">Hi there 👋</h2>
 <p align="center">
-<p align="center">If you have anything, plz say it up, DIRECTLY. (where I will notice, I mean)  </p>
-<p align="center">Wanna kill me by putting me down in public before I know? Perfect.</p>
-<p align="center">But far more better way is to ask a question and/or offer a suggestion.  </p>
+<p align="center">I am very lazy. Yes, veeery lazy. </p>
+<p align="center">Should also know that I am nervous and easily depressed. Any of your words can make me deadly sad. </p>
+<p align="center">However, if you have anything, plz say it up, DIRECTLY. (in a proper place that I would notice, I mean)  </p>
+<p align="center">Better is to ask a question and/or offer a suggestion, rather than to kill me by putting me down <br>somewhere in public while lacking contact to me. </p>
 <p align="center">Quite a few years of mine have already died in shame that way. What a pity. </p>
 </p>
 <br>
