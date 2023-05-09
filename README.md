@@ -1,11 +1,9 @@
 <h2 align="center">Hi there 👋</h2>
-<p align="center">
-<p align="center">I am very lazy. Yes, veeery lazy. </p>
-<p align="center">Should also know that I am nervous and easily depressed. Any of your words can make me deadly sad. </p>
-<p align="center">If you have anything, please report it, DIRECTLY. (in a proper place that I would notice, I mean)  </p>
-<p align="center">Better is to ask a question and/or offer a suggestion, rather than to kill me by putting me down <br>somewhere in public while lacking contact to me. </p>
-<p align="center">Quite a few years of mine have already died in shame that way. What a pity. </p>
-</p>
+I am very lazy. Yes, veeery lazy.<br>
+I also want you to know that I am nervous and get depressed easily. Please do not use harsh words...<br>
+And if you encounter any problems, please report them directly to me. Where appropriate, so that I am aware.<br>
+Ask questions or make suggestions.<br>
+Do not try to undermine me in any public forum without contacting me.<br>
 <br>
 <h1 align="center">Stats</h1>
 <p align="center">
